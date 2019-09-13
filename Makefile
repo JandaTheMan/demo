@@ -1,3 +1,5 @@
 .PHONY: build
 build:
-	docker build -t artifact .
+	docker build -t artifact . 
+
+

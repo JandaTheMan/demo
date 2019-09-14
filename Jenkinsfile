@@ -2,4 +2,4 @@
     [$class: 'GitSCMSource',
      remote: 'git@github.com:JandaTheMan/jenkins-shared-library.git',
      credentialsId: 'Github-jandaTheMan-credentials'])
- GreetingStagePipeline('master')
+ JavaBuildPipeline('master')

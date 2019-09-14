@@ -1,1 +1,2 @@
 info
+Build phase only creates docker image in the working directory

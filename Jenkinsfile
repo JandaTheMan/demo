@@ -5,5 +5,6 @@
  JavaBuildPipeline(
  "git@github.com:JandaTheMan/demo.git",
  "master",
- "JandaTheMan-git-credentials"
+ "JandaTheMan-git-credentials",
+ "TFG_demo-test"
  )

@@ -9,5 +9,5 @@ library identifier: 'shared-liraries-POC@master', retriever: modernSCM(
  "Github-JandaTheMan-credentials",
  "lec2-35-180-198-188.eu-west-3.compute.amazonaws.com:5000",
  "test_project",
- "test_project-test"
+ "tfg_demo-test"
  )

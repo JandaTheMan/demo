@@ -8,6 +8,6 @@ public class DemoController {
 
     @RequestMapping("/demo")
     public String greeting() {
-        return "Hola Tribunal!";
+        return "Hola ETSETB!!";
     }
 }

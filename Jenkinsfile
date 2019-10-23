@@ -7,7 +7,7 @@ library identifier: 'shared-liraries-POC@master', retriever: modernSCM(
  "git@github.com:JandaTheMan/demo.git",
  "master",
  "Github-JandaTheMan-credentials",
- "localhost:5000",
+ "ec2-35-180-198-55.eu-west-3.compute.amazonaws.com:5000",
  "test_project",
  "tfg_demo-test"
  )
